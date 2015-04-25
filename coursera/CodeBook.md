@@ -101,5 +101,3 @@ fbodybodygyromagstd
 fbodybodygyrojerkmagstd
 
 > Written with [StackEdit](https://stackedit.io/).
-
-
