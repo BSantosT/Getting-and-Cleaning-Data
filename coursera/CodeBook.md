@@ -13,28 +13,27 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-    tBodyAcc-XYZ
-    tGravityAcc-XYZ
-    tBodyAccJerk-XYZ
-    tBodyGyro-XYZ
-    tBodyGyroJerk-XYZ
-    tBodyAccMag
-    tGravityAccMag
-    tBodyAccJerkMag
-    tBodyGyroMag
-    tBodyGyroJerkMag
-    fBodyAcc-XYZ
-    fBodyAccJerk-XYZ
-    fBodyGyro-XYZ
-    fBodyAccMag
-    fBodyAccJerkMag
-    fBodyGyroMag
-    fBodyGyroJerkMag
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
 
 mean(): Mean value
-
 std(): Standard deviation
 
 The complete list of variables of each feature vector is available in 'features.txt'
@@ -49,7 +48,6 @@ Subject - represents one of 30 people submitted either to Test or Train data set
 
 Activity - list of activities throughout the data sets were collected;
 The remaining 79 variables are here divided in two groups: mean and std. In each groups, they are grouped by -xyz- (meaning that there are 3 different variables, one for x, one for y and for z) for the safe of visualization in this file.
-
 Each of them (of the 79) represent the average value for each subject and each activity, as the example on the README file shows.
 
  - Mean group:
