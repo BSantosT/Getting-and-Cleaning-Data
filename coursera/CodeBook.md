@@ -79,24 +79,23 @@ fbodybodygyromagmeanfreq
 fbodybodygyrojerkmagmean     
 fbodybodygyrojerkmagmeanfreq
 
- - Std group:
-
-tbodyaccstd-xyz-
-tgravityaccstd-xyz-
-tbodyaccjerkstd-xyz-
-tbodygyrostd-xyz-           
-tbodygyrojerkstd-xyz-           
-tbodyaccmagstd       
-tgravityaccmagstd
-tbodyaccjerkmagstd
-tbodygyromagstd           
-tbodygyrojerkmagstd
-fbodyaccstd-xyz-                 
-fbodyaccjerkstd-xyz-             
-fbodygyrostd-xyz-                
-fbodyaccmagstd            
-fbodybodyaccjerkmagstd
-fbodybodygyromagstd     
-fbodybodygyrojerkmagstd
+ 1. Std group:
+ 2. tbodyaccstd-xyz- 
+ 3. tgravityaccstd-xyz- 
+ 4. tbodyaccjerkstd-xyz-
+ 5. tbodygyrostd-xyz-            
+ 6. tbodygyrojerkstd-xyz-
+ 7. tbodyaccmagstd
+ 8. tgravityaccmagstd
+ 9. tbodyaccjerkmagstd
+ 10. tbodygyromagstd
+ 11. tbodygyrojerkmagstd 
+ 12. fbodyaccstd-xyz-     
+ 12. fbodyaccjerkstd-xyz-              
+ 13. fbodygyrostd-xyz-                
+ 14. fbodyaccmagstd             
+ 15. fbodybodyaccjerkmagstd
+ 16. fbodybodygyromagstd      
+ 17. fbodybodygyrojerkmagstd
 
 > Written with [StackEdit](https://stackedit.io/).
