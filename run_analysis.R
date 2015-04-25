@@ -55,7 +55,6 @@ library(dplyr)
   # Renames features so it does not include any special character and uses lower case
   colnames(data_filt) <- gsub("[[:punct:]]", "",tolower(colnames(data_filt)))
 
-
 # Rename activities column values -----------------------------------------
 
 for(k in 1:dim(activity_labels)[1]){
