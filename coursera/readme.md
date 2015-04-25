@@ -25,6 +25,5 @@ How the script works:
  4. Each column is renamed; new names should not have any special character or spaces.
  **Example of the first five columns:**
     "subject"       "activities"    "tbodyaccmeanx" "tbodyaccmeany" "tbodyaccmeanz"
-
  5.  Gives descriptive activity names to the activities column in the data set
  6.  Calculate mean of each variable for each subject and each activity
