@@ -51,35 +51,38 @@ The remaining 79 variables are here divided in two groups: mean and std. In each
 
 Each of them (of the 79) represent the average value for each subject and each activity, as the example on the README file shows.
 
+ 
+
  - Mean group:
+  
+ 2. tbodyaccmean-xyz-           
+ 3. gravityaccmean-xyz-
+ 4. tgravityaccmean-xyz-       
+ 5. tbodyaccjerkmean-xyz-       
+ 6. tbodygyromean-xyz-              
+ 7. tbodygyrojerkmean-xyz-     
+ 8. tbodyaccmagmean            
+ 9. tgravityaccmagmean
+ 10. tbodyaccjerkmagmean
+ 11. tbodygyromagmean         
+ 12. tbodygyrojerkmagmean        
+ 13. fbodyaccmean-xyz-                
+ 14. fbodyaccmeanfeq-xyz-            
+ 15. fbodyaccjerkmean-xyx-
+ 16. fbodyaccjerkmeanfreq-xyz-   
+ 17. fbodygyromean-xyz-         
+ 18. fbodygyromeanfreq-xyz-     
+ 19. fbodyaccmagmean             
+ 20. fbodyaccmagmeanfreq       
+ 21. fbodybodyaccjerkmagmean      
+ 22. fbodybodyaccjerkmagmeanfreq  
+ 23. fbodybodygyromagmean
+ 24. fbodybodygyromagmeanfreq
+ 25. fbodybodygyrojerkmagmean     
+ 26. fbodybodygyrojerkmagmeanfreq
 
-tbodyaccmean-xyz-          
-gravityaccmean-xyz-
-tgravityaccmean-xyz-       
-tbodyaccjerkmean-xyz-       
-tbodygyromean-xyz-              
-tbodygyrojerkmean-xyz-     
-tbodyaccmagmean            
-tgravityaccmagmean
-tbodyaccjerkmagmean
-tbodygyromagmean         
-tbodygyrojerkmagmean        
-fbodyaccmean-xyz-                
-fbodyaccmeanfeq-xyz-            
-fbodyaccjerkmean-xyx-
-fbodyaccjerkmeanfreq-xyz-   
-fbodygyromean-xyz-         
-fbodygyromeanfreq-xyz-     
-fbodyaccmagmean             
-fbodyaccmagmeanfreq       
-fbodybodyaccjerkmagmean      
-fbodybodyaccjerkmagmeanfreq  
-fbodybodygyromagmean
-fbodybodygyromagmeanfreq
-fbodybodygyrojerkmagmean     
-fbodybodygyrojerkmagmeanfreq
+ - Std group:
 
- 1. Std group:
  2. tbodyaccstd-xyz- 
  3. tgravityaccstd-xyz- 
  4. tbodyaccjerkstd-xyz-
