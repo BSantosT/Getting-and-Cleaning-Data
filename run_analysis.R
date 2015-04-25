@@ -82,4 +82,6 @@ for(i in 1:length(unique(data_filt$subject))){
 for(k in 1:dim(activity_labels)[1]){
   total$activities[which(total$activities==activity_labels$V1[k])] <- activity_labels$V2[k]
 }
+#removes all auxiliary variables except total dataframe, 
+#which contains the output of this scrip: the mean of each feature for each subject and each activity
 rm(list=setdiff(ls(), "total"))
