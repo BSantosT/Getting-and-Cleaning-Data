@@ -45,6 +45,7 @@ PART 2
 After step 8 described in README file, we have 81 variables
 
 Subject - represents one of 30 people submitted either to Test or Train data set.
+
 Activity - list of activities throughout the data sets were collected;
 The remaining 79 variables are here divided in two groups: mean and std. In each groups, they are grouped by -xyz- (meaning that there are 3 different variables, one for x, one for y and for z) for the safe of visualization in this file.
 Each of them (of the 79) represent the average value for each subject and each activity, as the example on the README file shows.
