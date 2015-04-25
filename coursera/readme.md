@@ -28,7 +28,7 @@ How the script works:
  **Example of the first five columns:**
     "subject"       "activities"    "tbodyaccmeanx" "tbodyaccmeany" "tbodyaccmeanz"
  6.  Gives descriptive activity names to the activities column in the data set
- 7.  Calculates the mean of each variable for each subject and each activity: dim = [180, 81]
+ 7.  Calculates the mean of each variable for each subject and each activity. The results are saved in a new tidy data frame: dim = [180, 81]
 
 >     Subject 1 > Activity 1 > mean of all 79 variables
 >     Subject 1 > Activity 2 > mean of all 79 variables
