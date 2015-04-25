@@ -98,6 +98,3 @@ fbodybodygyromagstd
 fbodybodygyrojerkmagstd
 
 > Written with [StackEdit](https://stackedit.io/).
-
-
-> Written with [StackEdit](https://stackedit.io/).
