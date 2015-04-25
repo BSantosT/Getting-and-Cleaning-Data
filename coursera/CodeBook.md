@@ -54,50 +54,50 @@ Each of them (of the 79) represent the average value for each subject and each a
 
  - Mean group:
 
-tbodyaccmean-xyz-          
-gravityaccmean-xyz-
-tgravityaccmean-xyz-       
-tbodyaccjerkmean-xyz-       
-tbodygyromean-xyz-              
-tbodygyrojerkmean-xyz-     
-tbodyaccmagmean            
-tgravityaccmagmean
-tbodyaccjerkmagmean
-tbodygyromagmean         
-tbodygyrojerkmagmean        
-fbodyaccmean-xyz-                
-fbodyaccmeanfeq-xyz-            
-fbodyaccjerkmean-xyx-
-fbodyaccjerkmeanfreq-xyz-   
-fbodygyromean-xyz-         
-fbodygyromeanfreq-xyz-     
-fbodyaccmagmean             
-fbodyaccmagmeanfreq       
-fbodybodyaccjerkmagmean      
-fbodybodyaccjerkmagmeanfreq  
-fbodybodygyromagmean
-fbodybodygyromagmeanfreq
-fbodybodygyrojerkmagmean     
-fbodybodygyrojerkmagmeanfreq
+    tbodyaccmean-xyz-          
+    gravityaccmean-xyz-
+    tgravityaccmean-xyz-       
+    tbodyaccjerkmean-xyz-       
+    tbodygyromean-xyz-              
+    tbodygyrojerkmean-xyz-     
+    tbodyaccmagmean            
+    tgravityaccmagmean
+    tbodyaccjerkmagmean
+    tbodygyromagmean         
+    tbodygyrojerkmagmean        
+    fbodyaccmean-xyz-                
+    fbodyaccmeanfeq-xyz-            
+    fbodyaccjerkmean-xyx-
+    fbodyaccjerkmeanfreq-xyz-   
+    fbodygyromean-xyz-         
+    fbodygyromeanfreq-xyz-     
+    fbodyaccmagmean             
+    fbodyaccmagmeanfreq       
+    fbodybodyaccjerkmagmean      
+    fbodybodyaccjerkmagmeanfreq  
+    fbodybodygyromagmean
+    fbodybodygyromagmeanfreq
+    fbodybodygyrojerkmagmean     
+    fbodybodygyrojerkmagmeanfreq
 
  - Std group:
 
-tbodyaccstd-xyz-
-tgravityaccstd-xyz-
-tbodyaccjerkstd-xyz-
-tbodygyrostd-xyz-           
-tbodygyrojerkstd-xyz-           
-tbodyaccmagstd       
-tgravityaccmagstd
-tbodyaccjerkmagstd
-tbodygyromagstd           
-tbodygyrojerkmagstd
-fbodyaccstd-xyz-                 
-fbodyaccjerkstd-xyz-             
-fbodygyrostd-xyz-                
-fbodyaccmagstd            
-fbodybodyaccjerkmagstd
-fbodybodygyromagstd     
-fbodybodygyrojerkmagstd
+    tbodyaccstd-xyz-
+    tgravityaccstd-xyz-
+    tbodyaccjerkstd-xyz-
+    tbodygyrostd-xyz-           
+    tbodygyrojerkstd-xyz-           
+    tbodyaccmagstd       
+    tgravityaccmagstd
+    tbodyaccjerkmagstd
+    tbodygyromagstd           
+    tbodygyrojerkmagstd
+    fbodyaccstd-xyz-                 
+    fbodyaccjerkstd-xyz-             
+    fbodygyrostd-xyz-                
+    fbodyaccmagstd            
+    fbodybodyaccjerkmagstd
+    fbodybodygyromagstd     
+    fbodybodygyrojerkmagstd
 
 > Written with [StackEdit](https://stackedit.io/).
