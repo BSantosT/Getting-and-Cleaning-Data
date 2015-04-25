@@ -40,4 +40,4 @@ How the script works:
 >     ...
 >     subject 30 > Activity 6 > mean of all 79 variables
 
-   
+For more detailed information about the variables, please check the codebook file.   
