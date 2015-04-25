@@ -6,7 +6,7 @@ Assuming that user already downloaded and saved the .zip file contains the data 
 The run_analysis.R is properly commented for better understanding of each step of the script.
 Bellow, some instructions on how to use the script are mentioned.
 
-Once you run the script,several pop-up windows will open. The user has to select the text files, saved previously on a working directory, in the following order:
+Once you run the script,several pop-up windows will open. The user has to select the text files, ***saved previously on a working directory***, in the following order:
 
  - X_test.txt 
  - y_test.txt 
