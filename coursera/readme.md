@@ -29,12 +29,13 @@ How the script works:
  6.  Gives descriptive activity names to the activities column in the data set
  7.  Calculates the mean of each variable for each subject and each activity:
 
-    Subject 1 > Activity 1 > mean of all 79 variables
-    Subject 1 > Activity 2 > mean of all 79 variables
-    ...
-    subject 1 > Activity 6 > mean of all 79 variables
-    ....
-    subject 30 > Activity 1 > mean of all 79 variables
-    ...
-    subject 30 > Activity 6 > mean of all 79 variables
+>     Subject 1 > Activity 1 > mean of all 79 variables
+>     Subject 1 > Activity 2 > mean of all 79 variables
+>     ...
+>     subject 1 > Activity 6 > mean of all 79 variables
+>     ....
+>     subject 30 > Activity 1 > mean of all 79 variables
+>     ...
+>     subject 30 > Activity 6 > mean of all 79 variables
+
    
