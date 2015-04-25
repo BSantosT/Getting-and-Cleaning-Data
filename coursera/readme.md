@@ -23,7 +23,7 @@ How the script works:
  2. Creates Train group data frame: dim = [7352, 563]
  3. Merges the data frames created in step 1 and 2 into a single data frame: dim = [10299, 563]
  4. columns 1 and 2 (subject and activities, respectively) are reordered in ascending order, while preserving corresponding order of other columns (function *arrange* from *dplyr package*)
- 5. Extract columns that have mean() or std() in their name only
+ 5. Extract columns that have mean() or std() in their name only: dim = [10299, 81]
  5. Each column is renamed; new names should not have any special character or spaces.
  **Example of the first five columns:**
     "subject"       "activities"    "tbodyaccmeanx" "tbodyaccmeany" "tbodyaccmeanz"
