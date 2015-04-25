@@ -82,3 +82,4 @@ for(i in 1:length(unique(data_filt$subject))){
 for(k in 1:dim(activity_labels)[1]){
   total$activities[which(total$activities==activity_labels$V1[k])] <- activity_labels$V2[k]
 }
+rm(list=setdiff(ls(), "total"))
