@@ -22,8 +22,9 @@ How the script works:
  1. Creates Test group data frame
  2. Creates Train group data frame
  3. Merges the data frames created in step 1 and 2 into a single data frame
- 4. Each column is renamed; new names should not have any special character or spaces.
+ 4. columns 1 and 2 (subject and activities, respectively) are reordered in ascending order, while preserving corresponding order of other columns (function *arrange* from *dplyr package*)
+ 5. Each column is renamed; new names should not have any special character or spaces.
  **Example of the first five columns:**
     "subject"       "activities"    "tbodyaccmeanx" "tbodyaccmeany" "tbodyaccmeanz"
- 5.  Gives descriptive activity names to the activities column in the data set
- 6.  Calculate mean of each variable for each subject and each activity
+ 6.  Gives descriptive activity names to the activities column in the data set
+ 7.  Calculates the mean of each variable for each subject and each activity
